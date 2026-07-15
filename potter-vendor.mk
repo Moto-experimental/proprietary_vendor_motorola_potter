@@ -20,6 +20,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/potter/proprietary/vendor/firmware/emmc_ffu_15_RE1BMB.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/emmc_ffu_15_RE1BMB.fw \
     vendor/motorola/potter/proprietary/vendor/firmware/emmc_ffu_15_RX14MB.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/emmc_ffu_15_RX14MB.fw \
     vendor/motorola/potter/proprietary/vendor/firmware/emmc_ffu_15_RX1BMB.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/emmc_ffu_15_RX1BMB.fw \
+    vendor/motorola/potter/proprietary/vendor/firmware/sensorhubfw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/sensorhubfw.bin \
     vendor/motorola/potter/proprietary/system/lib/libscveBlobDescriptor.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libscveBlobDescriptor.so \
     vendor/motorola/potter/proprietary/system/lib/libscveBlobDescriptor_stub.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libscveBlobDescriptor_stub.so \
     vendor/motorola/potter/proprietary/system/lib/libscveCommon.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libscveCommon.so \
